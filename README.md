@@ -12,6 +12,7 @@ NOTE
 2.Reviews are appreciated
 3.This is not a VPN for PUBG PC Lite.
 4.Some Antivirus might report it as flase positive,but it is completely safe
+5.Will soon make it open source
 
 REFERENCE
 ==========================================================================================================================================
