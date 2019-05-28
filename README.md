@@ -11,3 +11,8 @@ NOTE
 1.The Software is in testing and built only for use in India. Please comment below if you encounter bugs, or if you need some options to be added.
 2.Reviews are appreciated
 3.This is not a VPN for PUBG PC Lite.
+4.Some Antivirus might report it as flase positive,but it is completely safe
+
+REFERENCE
+==========================================================================================================================================
+1.https://www.codeproject.com/Articles/73000/Getting-Operating-System-Version-Info-Even-for-Win from CodeProject for Partial Windows 7 Support
